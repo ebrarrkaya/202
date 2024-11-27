@@ -5,9 +5,13 @@ Else ifadesi bizim için "Girilen hiçbir koşul sağlanmıyorsa" anlamına gelm
 Örnek Kod: (Ehliyet Kontrolü)
 
 yas=int(input("Lutfen yasinizi giriniz: "))
+
 if(yas>=18):
+
     print("Araba ve motor ehliyeti alabilirsiniz!")
 elif(yas>=15):
+
     print("Motor ehliyeti alabilirsiniz!")
 else:
+
     print("Ehliyet alamazsiniz!")
