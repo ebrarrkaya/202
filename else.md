@@ -15,3 +15,7 @@ elif(yas>=15):
 else:
 
     print("Ehliyet alamazsiniz!")
+
+<a href="https://github.com/ebrarrkaya/202/blob/65c7e1781650893acc67ef7c5e75921f4efbc245/eee.png">ÇIKTI 1</a>
+
+<a href="https://github.com/ebrarrkaya/202/blob/60c3b007a744658fa7a3e0155e8ec51814e2adb6/AAAAA.png">ÇIKTI 2</a>
